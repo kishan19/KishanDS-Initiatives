@@ -1,4 +1,3 @@
-# Kishans-Data-Science-Blog
-Code used in my data science blog
+# Data Science Explorations
 
-**Arranged in order of what goes in my blog**
+Codes used in my medium blog https://medium.com/kishan19 and other explorations....
