@@ -1,0 +1,6 @@
+ipywidgets==7.1.1
+requests
+nltk
+beautifulsoup4
+pandas
+numpy
