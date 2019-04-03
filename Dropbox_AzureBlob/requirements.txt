@@ -1,0 +1,5 @@
+dropbox
+zipfile36
+pandas
+numpy
+azure-storage==0.34.3
