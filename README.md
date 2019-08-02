@@ -1,3 +1,3 @@
 # Data Science Explorations
 
-Codes used in my medium blog https://medium.com/kishan19 and other explorations....
+Repository under construction. Building code used in my data science explorations. Read more about it at https://medium.com/kishan19
