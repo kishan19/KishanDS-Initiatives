@@ -20,13 +20,10 @@ Trying to unearth a few associated questions
 The first step is to scrape through commentary texts, but we need a scalable approach to do this. Scraping a page one by one will have to be configured. 
 
 
-For the future....
+### Commentary references
 
-#### ODIs in 2018: Who got the most runs in the first 10 balls they faced? 
-
-
-
-#### Tests in 2018: Who got the most wickets in a single session? 
+1. https://github.com/nishant-mor/Commentary-Parser/blob/master/comment.py
+2. https://www.espncricinfo.com/story/_/id/21898685/m
 
 
 #### Some useful references:
