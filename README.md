@@ -1,8 +1,4 @@
-# Data Science Explorations
-
-Code files used in my blog https://medium.com/kishan19
-
-### Initiatives
+# Data Science Explorations and initiatives
 
 
 | No. | Project Overview                                                                | Use Case                                                                                                                                                  | Technologies                                     | Blog Link                                                                                                         |
