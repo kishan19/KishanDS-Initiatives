@@ -10,15 +10,13 @@ The first step is to compile all the URLs for the particular year. Then, process
 
 Then a function is used to preprocess a few data inside pandas. This is processed as a dataframe which can be used for query purposes or integrated as part of a chatbot.
 
-#### Who uses DRS the most as a batsman? And who has had the highest success rate so far in 2018?
+#### DRS Dashboard
 
-Trying to unearth a few associated questions
-
-- Are captains the most frequent users? 
-- Who took the most successful reviews in 2018?
-
-The first step is to scrape through commentary texts, but we need a scalable approach to do this. Scraping a page one by one will have to be configured. 
-
+- ODI, Test, T20I success indices
+- Umpire metrics
+- Neat frontend for application
+- Automated data pipelines for extraction of Match notes data
+- Dashboard with key metrics of referrals
 
 ### Commentary references
 
