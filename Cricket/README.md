@@ -10,7 +10,7 @@ The first step is to compile all the URLs for the particular year. Then, process
 
 Then a function is used to preprocess a few data inside pandas. This is processed as a dataframe which can be used for query purposes or integrated as part of a chatbot.
 
-#### DRS Dashboard
+#### DRS Analysis
 
 - ODI, Test, T20I success indices
 - Umpire metrics
@@ -18,10 +18,19 @@ Then a function is used to preprocess a few data inside pandas. This is processe
 - Automated data pipelines for extraction of Match notes data
 - Dashboard with key metrics of referrals
 
+Edge cases
+
+- Retired out affecting active partnership
+- Extras of same ball in over commentary
+- Ordering innings list
+- Capturing change of keeper during particular event
+
+
 ### Commentary references
 
 1. https://github.com/nishant-mor/Commentary-Parser/blob/master/comment.py
 2. https://www.espncricinfo.com/story/_/id/21898685/m
+3. https://stackoverflow.com/questions/5314241/difference-between-consecutive-elements-in-list
 
 
 #### Some useful references:
