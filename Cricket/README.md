@@ -18,12 +18,21 @@ Then a function is used to preprocess a few data inside pandas. This is processe
 - Automated data pipelines for extraction of Match notes data
 - Dashboard with key metrics of referrals
 
+Dashboard for automated ODI, TEST and T20 analysis
+
+
+Data:
+- Capture keeper (done)
+- Capture captain of team (done)
+
+
 Edge cases
 
-- Retired out affecting active partnership
-- Extras of same ball in over commentary
-- Ordering innings list
-- Capturing change of keeper during particular event
+- Retired out affecting active partnership (done)
+- Extras of same ball in over commentary (done)
+- Ordering innings list (done)
+- Capturing change of keeper during particular event  (manual override based on aware events)
+- If there are 3 innings, then reverse keeper order and captain order- in terms of count (manual override now for <=3 innings in test)
 
 
 ### Commentary references
