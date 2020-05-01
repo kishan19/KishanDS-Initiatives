@@ -10,6 +10,15 @@ The first step is to compile all the URLs for the particular year. Then, process
 
 Then a function is used to preprocess a few data inside pandas. This is processed as a dataframe which can be used for query purposes or integrated as part of a chatbot.
 
+
+## Data points captured:
+
+- Formats (can handle Tests, ODIs, T20Is, IPL)
+- Match metadata such as match name, match series, match date, and match result
+- Order of innings played, who was the fielding captain and who was the fielding keeper for the particular innings
+
+
+
 #### DRS Analysis
 
 - ODI, Test, T20I success indices
@@ -25,6 +34,9 @@ Data:
 - Capture keeper (done)
 - Capture captain of team (done)
 
+Fixes:
+
+- Single review in a match for T20S/ODIS being a problem- Delhi vs SRH eliminator is one case
 
 Edge cases
 
